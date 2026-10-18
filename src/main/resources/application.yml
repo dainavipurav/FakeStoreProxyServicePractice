@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: proxyServiceDemo
+
+external:
+  api:
+    base-url: https://fakestoreapi.com
